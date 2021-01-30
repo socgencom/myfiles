@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1,Channel CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Channel ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1,Channel NBC NEWS
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/index.m3u8
+
+#EXTINF:-1,Channel CBN NEWS
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+
+#EXTINF:-1,Channel ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1,Channel BLOOMBERG
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1,Channel RUSSIA TODAY USA
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
+#EXTINF:-1,Channel GLOBAL NEWS
+https://rt-usa.secure.footprint.net/1105.m3u8
+
+#EXTINF:-1,Channel FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1,Channel BBC WORLD NEWS
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
+
+#EXTINF:-1,Channel SKY NEWS
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
+#EXTINF:-1,Channel DEUTSCHE WELLE
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1,Channel EURONEWS
+https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
