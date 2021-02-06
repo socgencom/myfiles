@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:180
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+
+#EXTINF:6.000,
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/fragment/ts/live/?session=601e674690827&offset=48146&pointeroffset=46&fragmentlength=6000
+#EXTINF:6.000,
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/fragment/ts/live/?session=601e674690827&offset=48147&pointeroffset=47&fragmentlength=6000
+#EXTINF:6.000,
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/fragment/ts/live/?session=601e674690827&offset=48148&pointeroffset=48&fragmentlength=6000
+
