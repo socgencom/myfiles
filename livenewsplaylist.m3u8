@@ -1,0 +1,157 @@
+#EXTM3U
+
+#EXTINF:-1,N1 HR
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+
+#EXTINF:-1,N1 SRB
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+
+#EXTINF:-1,N1 BiH
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+
+#EXTINF:-1,JABUKA TV
+https://stream-09.ix7.dailymotion.com/sec(b2ly56vqV33i3jvQTS0zLI8OstXAw9MpWQMX1uDJ0aI)/dm/3/x654gen/s/live-3.m3u8
+
+#EXTINF:-1,SPTV
+https://stream-08.dc3.dailymotion.com/sec(ihXAbfEZenZtNeXpd4cUvY2VOcd01TrQdT8aopbEztU)/dm/3/x6wqqri/s/live-3.m3u8
+
+#EXTINF:-1,TV NOVA (PULA)
+https://stream-05.ix7.dailymotion.com/sec(bgTgeW_tN40eeFxrVpN5v3Iajm6G_53WmUOMIpkVrW8)/dm/3/x694rtu/s/live-3.m3u8
+
+#EXTINF:-1,TV JADRAN
+https://stream-08.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDMSBEZ8XNIdRDrnsPet8kMI)/dm/3/x670ug8/s/live-3.m3u8
+
+#EXTINF:-1,KURIR TV (SRB)
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+
+#EXTINF:-1,B92 (SRB)
+http://orionsvet.gcdn.co/mobileworld/b92/video.m3u8?md5=QzcSstOrvEW69YX9TDHCNA&expires=1612782005&ak=8500795
+
+#EXTINF:-1,RTS 1 (SRB)
+http://orionsvet.gcdn.co/mobileworld/rts1/video.m3u8?md5=LJTRLz3L5zdOPWmHudejkw&expires=1612795967&ak=7310671
+
+#EXTINF:-1,RTS 2 (SRB)
+http://orionsvet.gcdn.co/mobileworld/rts2/video.m3u8?md5=ibyUfOarw7YOoIOJY6d9hg&expires=1612795975&ak=7310671
+
+#EXTINF:-1,RTS 3 (SRB)
+http://mobilesvet.gcdn.co/rts3/video.m3u8?md5=hb8FGzYA6uZgB4o0lTeZ9Q&expires=1612782005&ak=8500795
+
+#EXTINF:-1,PRVA TV (SRB)
+http://orionsvet.gcdn.co/mobileworld/prva/video.m3u8?md5=35MkfNNFTyRpdScfed9dYw&expires=1612782005&ak=8500795
+
+#EXTINF:-1,HAPPY (SRB)
+http://orionsvet.gcdn.co/mobileworld/happy/video.m3u8?md5=sr05ukIxbvp83u448cXZUw&expires=1612782005&ak=8500795
+
+#EXTINF:-1,K1 (SRB)
+http://mobilesvet.gcdn.co/k1/video.m3u8?md5=9bBneLdYu4lgLNOgTT8DEg&expires=1612782005&ak=8500795
+
+#EXTINF:-1,RTV 1 (SRB)
+http://mobilesvet.gcdn.co/rtv1/video.m3u8?md5=Q8vNFLqF5awkR4ekBuKkcQ&expires=1612782005&ak=8500795
+
+#EXTINF:-1,RTV 2 (SRB)
+http://mobilesvet.gcdn.co/rtv2/video.m3u8?md5=EO3tmrzIgsrHlHQP5eyh7w&expires=1612782005&ak=8500795
+
+#EXTINF:-1,PINK RED (SRB)
+http://orionsvet.gcdn.co/mobileworld/pink2/video.m3u8?md5=nxyt2biYcjhHWf0oYpAF2w&expires=1612782005&ak=8500795
+
+#EXTINF:-1,PRVA WORLD (SRB)
+http://mobilesvet.gcdn.co/b92info/video.m3u8?md5=Gqv_HqSCMskXfF2K3oq-hA&expires=1612782005&ak=8500795
+
+#EXTINF:-1,BNTV (SRB)
+https://dns2.rtvbn.com:8080/live/index.m3u8
+
+#EXTINF:-1,AXN (FILMSKI)
+http://mobilesvet.gcdn.co/axn/video.m3u8?md5=_-mTq35bTHv2qkZ6QcJg0g&expires=1612782005&ak=8500795
+
+#EXTINF:-1,TV1000 (FILMSKI)
+http://mobilesvet.gcdn.co/viasattv1000/video.m3u8?md5=rn0pv9ZA8_1tJ2GP0IAFYw&expires=1612782005&ak=8500795
+
+#EXTINF:-1,FILMBOX 1 (FILMSKI)
+http://mobilesvet2.gcdn.co/extra/video.m3u8?md5=iaMUO8HrL7jDBYeRQYZQDA&expires=1612782005&ak=8500795
+
+#EXTINF:-1,FILMBOX 2 (FILMSKI)
+http://mobilesvet2.gcdn.co/filmplus/video.m3u8?md5=3gdGg9HlrsTl3BIeHIiZjg&expires=1612782005&ak=8500795
+
+#EXTINF:-1,FILMBOX 3 (FILMSKI)
+http://mobilesvet2.gcdn.co/arthouse/video.m3u8?md5=57ulilS2TgLxTefhvbH3bQ&expires=1612782005&ak=8500795
+
+#EXTINF:-1,CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1,NBC NEWS
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/index.m3u8
+
+#EXTINF:-1,BBC WORLD NEWS
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
+
+#EXTINF:-1,BBC2
+https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ESPN
+https://gma2.blab.email/fs2.m3u8
+
+#EXTINF:-1,SKY NEWS
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
+#EXTINF:-1,ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1,BLOOMBERG
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1,RUSSIA TODAY USA
+https://rt-usa.secure.footprint.net/1105.m3u8
+
+#EXTINF:-1,GLOBAL NEWS
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
+#EXTINF:-1,FIGHTBOX
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+
+#EXTINF:-1,FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1,DEUTSCHE WELLE
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1,EURONEWS
+https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
+
+#EXTINF:-1,NEWSNET
+http://broadcaster1.prolivestream.net:8081/onair/newsnetweb/playlist.m3u8
+
+#EXTINF:-1,NEWSMAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1,AUSTRALIA NEWS LIVE
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?DVRabout=Watch ABC News Australia online live
+
+#EXTINF:-1,CHEDDAR
+https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:-1,CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1,PIXPLUS NEW YORK
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+
+#EXTINF:-1,TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1,PRESSTV
+https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ARENASPORT 1
+https://x.wmsxx.com:30443/live/wiz21/chunks.m3u8?nimblesessionid=26803021&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjEgNjo1NDozMiBQTSZoYXNoX3ZhbHVlPXRnVkkrZjNuc0JnVXUvaWNleWtxeWc9PSZ2YWxpZG1pbnV0ZXM9MTIw
+
+#EXTINF:-1,SPORTKLUB 1
+https://x.wmsxx.com:30443/live/wiz7/chunks.m3u8?nimblesessionid=26762657&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjEgNjo0Mzo0MCBQTSZoYXNoX3ZhbHVlPUZPRXJyYW9oNlZteW9mUmZnZ1l6QUE9PSZ2YWxpZG1pbnV0ZXM9MTIw
+
+#EXTINF:-1,SPORTKLUB 2
+https://sportbar.biz/lba/YTcyOGViZTk5ZmMwNDgzOGM0NGQyZDFiNTkzZmM5ZGM=/g1/sk2serbia.m3u8?token=YTcyOGViZTk5ZmMwNDgzOGM0NGQyZDFiNTkzZmM5ZGM=&id=MDRiZGI4MjcwN2VhOGFiOTcxNTQ3Y2MyOTI1Njc4MzA=&vip=1612715107&dip=ZDE3YWQ5MzlkOGM4NTBjMmFjMTEwOGFlYjAxN2EyMzc=&pip=NWZjYjMyYzU4MDQwNjgzMWVlYWU5ZTdkMWQwMjAzNTU=&hip=NjdkZTAyZDhkZjc5MzZiNWVhMzkzZWY2OTIwZDUzYmI=
